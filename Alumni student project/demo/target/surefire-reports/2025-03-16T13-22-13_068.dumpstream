@@ -1,0 +1,5 @@
+# Created at 2025-03-16T13:22:13.215
+Boot Manifest-JAR contains absolute paths in classpath 'V:\Vivek\Desktop\Alumni student project\demo\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
